@@ -1,8 +1,11 @@
 import React from 'react';
 import './Market.css';
 const Market = () => {
-  return <div>
-    <div>MENU</div> </div>;
+  return (
+    <div className="market">
+      <div className="menu"></div>
+    </div>
+  );
 };
 
 export default Market;

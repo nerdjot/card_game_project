@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
-div {
+.market {
   font-family: 'Luckiest Guy';
+  background-color: #dfe4e6;
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  top:0;
+  left:0;
+}
+
+.menu {
+  width: 100%;
+  background-color: pink;
+  height: 25vh;
 }
